@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Connor
-I make things.
+Im currently building out discord bots for over 40,000 unique members.
