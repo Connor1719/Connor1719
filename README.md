@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Connor
-Im currently building discord bots for over 40,000 unique users.
+Im currently building discord bots for used by over 40,000 people.
