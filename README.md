@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Connor
-Im currently working on NASA Aspera and building discord bots used by over 40,000 people.
+Im currently working on Aspera and building discord bots used by over 40,000 people.
