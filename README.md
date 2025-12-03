@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Connor
-Im currently working on Aspera and building discord bots used by over 40,000 people.
+Im currently working for a large utility company writing applications that support the power grid.
+EX: NASA Aspera, Discord Bot Developer
